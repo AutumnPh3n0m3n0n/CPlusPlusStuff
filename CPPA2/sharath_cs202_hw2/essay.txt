@@ -1,0 +1,6 @@
+The Vietnam War;8;2398;90
+The Holocene Era;5;1472;95
+The Nervous System;6;1822;85
+Gone With the Wind Summary;7;2090;75
+The Paris Climate Agreement;10;3084;80
+Organic Chemistry Assessment;4;1159;90

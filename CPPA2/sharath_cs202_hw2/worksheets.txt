@@ -1,0 +1,4 @@
+Statistics;3;Find the standard deviation of the graph;Find the variance of the graph;What is the appropriate graph model;Y;Y;Y;100
+Economics;3;What is the law of diminishing marginal returns;What is the equilibrium price;What does long run mean;Y;Y;Y;100
+Chemistry;3;What does enthalpy mean;What is the molecular mass of Sodium Acetate;How many molecules are in 400ml of Sulfuric Acid;N;Y;Y;70
+Physics;3;What does Newtons second law state;What does the formula for gravity;What is the formula for Ohms Law;Y;Y;N;70
